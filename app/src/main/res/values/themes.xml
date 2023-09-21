@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MoveeApp" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.SplashScreen"
+        parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/blue</item>
+    </style>
+
+    <style name="SplashScreenTheme" parent="Theme.SplashScreen">
+        <item name="android:windowBackground">@drawable/splash_logo</item>
+    </style>
+</resources>

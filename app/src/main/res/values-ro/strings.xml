@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MoveeApp</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_password">Parolă</string>
+    <string name="login_button_title">Autentificare</string>
+    <string name="login_forgot_password">Am uitat parola</string>
+    <string name="login_no_account">Nu aveți încă un cont?</string>
+    <string name="login_register_now">Înregistrați-vă acum</string>
+    <string name="login_username_password_error">Vă rugăm să introduceți un nume de utilizator și o parolă valide!</string>
+    <string name="movies_home_screen_movies_popular">Populare</string>
+    <string name="movies_home_screen_movies_title">Filme</string>
+    <string name="movies_home_screen_maps_not_found">Google Maps nu este instalat pe dispozitivul dvs.!</string>
+    <string name="movies_detail_screen_director">Regizor:</string>
+    <string name="movies_detail_screen_writers">Scriitori:</string>
+    <string name="movies_detail_screen_stars">Actori principali:</string>
+    <string name="tvseries_home_screen_title">Seriale TV</string>
+    <string name="tvseries_home_screen_top_rated">Seria de Top Cotate</string>
+    <string name="tvseries_detail_screen_creators">Creatori:</string>
+    <string name="tvseries_detail_screen_seasons">Sezon</string>
+    <string name="actor_detail_screen_born">Locul nașterii:</string>
+    <string name="actor_detail_screen_see_full_bio">Vezi mai mult >></string>
+    <string name="actor_detail_screen_see_less_bio">Vezi mai puțin >></string>
+    <string name="search_screen_title">Căutare</string>
+    <string name="search_screen_cancel">Anulează</string>
+    <string name="search_screen_person">Actor</string>
+    <string name="search_screen_movie">Film</string>
+    <string name="search_screen_tv">Serial TV</string>
+    <string name="search_screen_result_not_found">Nu s-a găsit nimic conform căutării dvs.</string>
+    <string name="profile_screen_title">Profil</string>
+    <string name="profile_screen_hello">Bună</string>
+    <string name="profile_screen_favorite">Favorite</string>
+    <string name="profile_screen_exit_alertdialog_title">Ieșire</string>
+    <string name="profile_screen_exit_alerdialog_content">Sunteți sigur că doriți să ieșiți?</string>
+    <string name="profile_screen_exit_alertdialog_button_yes">Da</string>
+    <string name="profile_screen_exit_alerdialog_button_no">Nu</string>
+    <string name="detail_screens_added_favorite_success">Adăugat la favorite</string>
+    <string name="detail_screens_delete_favorite_success">Eliminat de la favorite</string>
+    <string name="detail_screens_added_favorite_unsuccess">A apărut o eroare la adăugarea la favorite, vă rugăm să încercați din nou</string>
+
+</resources>
