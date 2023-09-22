@@ -6,7 +6,7 @@ The application offers full support for the Romanian, Turkish, and English langu
 
 ## Features
 
-- **Personalized Lists**: Users can add movies and series they want to watch to personalized lists.
+- **Favorites List**: Users can add movies and series when they like movie or series to favorites list.
 - **Detailed Information**: Access detailed information about each movie or series, including cast and genres.
 - **Responsive Design**: The application features a responsive design to adapt to different screen sizes and devices.
 - **Data Security**: Data is encrypted using security crypto and stored securely.
