@@ -2,7 +2,7 @@
 
 MoveeApp is a specialized platform tailored for movie and TV series aficionados. Leveraging The Movie Database (TMDb) API, the application provides users with a comprehensive catalog of films and series. The app allows users to curate personalized lists of movies and series, offering in-depth insights into specific titles, actors, and genres. This feature-rich environment empowers users to make well-informed decisions about the content they wish to watch, while also enabling them to compile their own lists of favorites.
 
-The application fully supports Romanian, Turkish, and English languages. It will open in the language set on the phone. If the phone language is set to Turkish, it will open in Turkish; if it's set to Romanian, it will open in Romanian; for all other languages, it will open in English.
+The application offers full support for the Romanian, Turkish, and English languages. Upon launch, it will automatically detect and open in the language set on your phone. If your phone's language is set to Turkish, the application will open in Turkish. If it's set to Romanian, the application will open in Romanian. For all other languages, the default language of the application will be English.
 
 ## Features
 
